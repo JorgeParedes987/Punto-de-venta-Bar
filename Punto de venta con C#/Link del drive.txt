@@ -1,0 +1,7 @@
+Ejecutable del punto de venta hecho con C# y MysqlServer
+
+https://drive.google.com/file/d/11XDeJs5LOtUiGJk1BBCOGnWLIIxPxoLb/view?usp=drive_link
+
+Video explicando el funcionamiento del punto de venta
+
+https://drive.google.com/file/d/1SmCePPL4I5wo3skvopZXz-QedJZL_Yd3/view?usp=drive_link
